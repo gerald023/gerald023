@@ -8,5 +8,5 @@ I'm a learned software engineer with a passion for crafting impressive solutions
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [lekaragerald19@gmail.com](mailto:lekaragerald19@gmail.com)
-*   🧠  I'm learning Express, Spring and C#
-*   🤝  I'm open to collaborating on Any interesting projects
+*   🧠  I've learnt Express, Typescript, NodeJs, Python, Dart, Flutter, Firebase, Spring and C#
+*   🤝  I'm open to collaborating on Any interesting projects.
